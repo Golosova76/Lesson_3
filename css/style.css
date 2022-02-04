@@ -1,0 +1,70 @@
+div {
+    color: brown; 
+}
+h1 {
+    color: red;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: hotpink;
+}
+
+p {
+    color: grey;
+}
+
+ol {
+    color: orange;
+}
+
+nav {
+    color: blue;
+}
+
+span {
+    color: purple;
+}
+
+.list {
+    color: red;
+}
+
+.paragraph {
+    color: green;
+}
+
+#one {
+    color: red;
+}
+
+.span {
+    color: red;
+}
+
+.fact.one {
+    color: green;
+}
+
+ol.fact {
+    color: red;
+}
+
+div .span {
+    color: black;
+}
+
+.pass, h3 {
+    color: red;
+}
+
+.next.two {
+    color: red;
+}
+
+* {
+    color: violet;
+}
